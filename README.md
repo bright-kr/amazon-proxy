@@ -1,6 +1,6 @@
 # Bright Data's Amazon Proxies
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/solutions/amazon-proxy) 
+[![Promo](https://github.com/bright-kr/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/solutions/amazon-proxy) 
 
 ## Overview
 정확한 타겟팅, 탁월한 안정성, 빠른 응답 시간을 제공하도록 설계된 Bright Data의 [Amazon proxies](https://brightdata.co.kr/solutions/amazon-proxy)로 원활한 スクレイピング을 경험해 보시기 바랍니다.
