@@ -3,27 +3,27 @@
 [![Promo](https://github.com/bright-kr/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/solutions/amazon-proxy) 
 
 ## Overview
-정확한 타겟팅, 탁월한 안정성, 빠른 응답 시간을 제공하도록 설계된 Bright Data의 [Amazon proxies](https://brightdata.co.kr/solutions/amazon-proxy)로 원활한 スクレイピング을 경험해 보시기 바랍니다.
+정확한 타겟팅, 탁월한 안정성, 빠른 응답 시간을 제공하도록 설계된 Bright Data의 [Amazon proxies](https://brightdata.co.kr/solutions/amazon-proxy)로 원활한 스크레이핑을 경험해 보시기 바랍니다.
 
-- **100M+ プロキシ IPs**
-- **Sticky 및 ローテーティング セッション**
+- **100M+ 프록시 IPs**
+- **Sticky 및 ローテーティング 세션**
 - **99.95% 성공률**
 - **HTTP(S) & SOCKS5 지원**
-- **ジオロケーション 타겟팅 (무료)**
+- **지오로케이션 타겟팅 (무료)**
 
 ## Key Features
 - **글로벌 커버리지**: [195개 국가](https://brightdata.co.kr/locations)에서 사용 가능한 Amazon proxies입니다.
-- **인기 プロキシ IP 위치**
+- **인기 프록시 IP 위치**
    - [**United States proxy**](https://brightdata.co.kr/locations/united-states)
    - [**China proxy**](https://brightdata.co.kr/locations/cn)
    - [**UK proxy**](https://brightdata.co.kr/locations/gb)
    - [**Germany proxy**](https://brightdata.co.kr/locations/de)
    - [**Canada proxy**](https://brightdata.co.kr/locations/ca)
    - [**India proxy**](https://brightdata.co.kr/locations/in)
-- **높은 성공률**: スクレイピング 프로젝트에서 최대 99.95%의 성공을 달성하실 수 있습니다.
+- **높은 성공률**: 스크레이핑 프로젝트에서 최대 99.95%의 성공을 달성하실 수 있습니다.
 - **빠른 응답**: 평균 응답 시간은 약 0.7초입니다.
-- **윤리적으로 수집됨**: 모든 プロキシ는 명시적인 사용자 동의를 기반으로 제공됩니다.
-- **무제한 동시 セッション**: 제한 없이 운영을 확장하실 수 있습니다.
+- **윤리적으로 수집됨**: 모든 프록시는 명시적인 사용자 동의를 기반으로 제공됩니다.
+- **무제한 동시 세션**: 제한 없이 운영을 확장하실 수 있습니다.
 
 가입하고 첫 입금액에 대해 최대 $500까지 1:1로 매칭 혜택을 받으실 수 있습니다!
 
@@ -54,7 +54,7 @@ Amazon proxies는 다음을 포함한 인기 도구 및 프레임워크와 통�
 ## FAQ
 
 ### What are the benefits of Amazon Proxies?
-Amazon proxies를 사용하면 높은 수준의 프라이버시와 보안을 확보할 수 있으며, 帯域幅을 공유하지 않기 때문에 더 빠른 속도를 기대할 수 있습니다. 또한 IP가 다른 사용자의 활동과 연관되지 않으므로 차단되거나 블랙리스트에 등록될 リスク가 낮습니다.
+Amazon proxies를 사용하면 높은 수준의 프라이버시와 보안을 확보할 수 있으며, 대역폭을 공유하지 않기 때문에 더 빠른 속도를 기대할 수 있습니다. 또한 IP가 다른 사용자의 활동과 연관되지 않으므로 차단되거나 블랙리스트에 등록될 リスク가 낮습니다.
 
 ### What types of plans are available? 
 Bright Data는 다음을 포함한 유연한 요금 모델을 제공합니다:
@@ -63,10 +63,10 @@ Bright Data는 다음을 포함한 유연한 요금 모델을 제공합니다:
 - **Subscription Plans**: 월간, 연간 및 맞춤형 옵션입니다.
 
 ### Are Bright Data's proxies compliant and safe to use?
-Bright Data의 プロキシ는 윤리적으로 수집되며, GDPR 및 CCPA를 포함한 모든 관련 데이터 보호 법규를 준수합니다.
+Bright Data의 프록시는 윤리적으로 수집되며, GDPR 및 CCPA를 포함한 모든 관련 데이터 보호 법규를 준수합니다.
 
 ### Is there dedicated support available?
 지원팀이 24/7로 고객님을 지원해 드립니다. 필요 사항을 논의하고 Amazon proxy 네트워크의 이점을 극대화할 수 있도록 문의해 주시기 바랍니다.
 
-Amazon을 スクレイピング하고 싶으신가요? 
+Amazon을 스크레이핑하고 싶으신가요? 
 Bright Data의 [**Amazon Scraper**](https://brightdata.co.kr/products/web-scraper/amazon)를 확인해 보시기 바랍니다.
